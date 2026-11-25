@@ -26,5 +26,25 @@
         "type": "banner_warn",
         "order": 1,
         "ce_versions": "<6.0.0"
+    },
+    {
+        "id": "BANNER_WARN_1009",
+        "message": "TEST ONE WARN.",
+        "type": "banner_warn",
+        "order": 3
+    },
+    {
+        "id": "BANNER_INFO_1010",
+        "message": "TEST ONE ANNOUNCE.",
+        "type": "banner_info",
+        "order": 3,
+        "announcement": true
+    },
+    {
+        "id": "BANNER_INFO_1011",
+        "message": "TEST ONE INFO.",
+        "type": "banner_info",
+        "order": 1
     }
+    
 ]
